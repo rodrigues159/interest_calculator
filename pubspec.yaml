@@ -22,6 +22,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   cupertino_icons: ^0.1.2
+  splashscreen: ^1.2.0
   flutter_masked_text: ^0.8.0
   intl: ^0.16.0
   datetime_picker_formfield: ^1.0.0

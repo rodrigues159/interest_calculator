@@ -77,5 +77,6 @@ class Controller {
 
   // Função para apagar (reiniciar) as informações da tela
   // Esta função faz parte do desafio, por isso ela não esta codificada
-  void clear() {}
+  void clear() {
+  }
 }
